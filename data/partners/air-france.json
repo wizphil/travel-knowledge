@@ -1,0 +1,7 @@
+{
+  "id": "air-france",
+  "name": "Air France Flying Blue",
+  "type": "airline",
+  "region": "Europe",
+  "website": "https://www.flyingblue.com"
+}

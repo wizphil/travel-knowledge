@@ -1,0 +1,7 @@
+{
+  "id": "amex-mr",
+  "name": "American Express Membership Rewards",
+  "issuer": "American Express",
+  "currency_name": "Membership Rewards Points",
+  "website": "https://www.americanexpress.com/rewards"
+}
